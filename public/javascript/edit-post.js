@@ -2,7 +2,7 @@ async function editFormHandler(event) {
     event.preventDefault();
   
     const title = document.querySelector('input[name="post-title"]').value.trim();
-    const post_content = document.querySelector('textarea[name="post-content"]').value;
+    const content = document.querySelector('input[name="content"]').value;
     console.log(title);
     console.log(content);
     const id = window.location.toString().split('/')[
@@ -25,4 +25,4 @@ async function editFormHandler(event) {
     }
   }
   
-  document.querySelector('.edit-post-form').addEventListener('submit', editFormHandler);
+  document.querySelector('#edit-post-form').addEventListener('submit', editFormHandler);

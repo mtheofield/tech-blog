@@ -24,13 +24,13 @@ main {
   display: block;
   margin: 5px 0;
   border-radius: var(--border-radius);
-  color: white;
+  color: var(--black);
   background-color: var(--light);
 }
 
 .btn:hover {
-  color: var(--primary);
-  background-color: var(--tertiary);
+  color: var(--tertiary);
+  background-color: var(--primary);
   box-shadow: 2px 2px var(--black);
 }
 
