@@ -2,7 +2,8 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This E-commerce application allows a manager at an internet retail company access a back end for their e-commerce website that uses the latest technologies. This allows the company to compete with other e-commerce companies. 
+  The tech-blog allows developeres to write about tech in the CMS-style blog site. The developer can publish articles, blog posts and comment their thoughts and opinions. 
+
   ## Table of Contents
 
   * [Description](#description)
@@ -28,7 +29,7 @@ Applications used in this project were:
   This project is covered under the MIT license.
 
   ## Deployed-Website
-  http://warm-gorge-78349.herokuapp.com/login
+  http://warm-gorge-78349.herokuapp.com
 
 
     Image of Tech-Blog Website
